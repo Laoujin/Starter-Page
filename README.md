@@ -12,7 +12,7 @@ And surf to `http://localhost:8081/index.php`
 
 Watch and be awed:
 
-![Yup, pretty awesome!][screenshot.png]
+![Yup, pretty awesome!](screenshot.png)
 
 
 Also note that there is an arrow to go to the **next** menu!!
